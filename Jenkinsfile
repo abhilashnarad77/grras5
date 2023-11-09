@@ -1,6 +1,6 @@
 pipeline {
 	agent{
-	label 'Mens-lable'
+	label 'mens-lable'
 	}
 	stages {
 	    stage('Checkout') {
